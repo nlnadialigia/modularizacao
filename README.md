@@ -19,9 +19,26 @@
 
 Repositório da aula de Modularização e Pacotes do Mundo 3 no Curso de Python3 do [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-# 📌 Modularização
+## 📌 Modularização
 
 
+- **Definições**
+    - ato de construir módulos
+    - dividir um programa grande
+    - aumentar a legibilidade
+    - facilitar a manutenção
+    - na modularização segregamos as funções em um arquivo separado e importamos para o programa principal
+- **Vantagens**
+    - organização do código
+    - facilidade da manutenção
+    - ocultação do código detalhado
+    - reutilização em outros projetos
+
+## 📌 Pacotes
+- **Definição**
+    - pasta que contém módulos
+    - toda pasta é considerada um pacote
+    - sintaxe para o arquivo ⇒ `__init__.py`
 
 
 # 👩‍💼 Author
